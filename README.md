@@ -1,5 +1,14 @@
 # JOBSTER
 
+CS691 - Computer Science Project - Jobster
+
+Group project spanning two semesters to create Jobster web application
+
+Collaborated with team to develop web-based application for job seekers to assist in job application process with React and Node.js utilizing Agile software development practices
+
+Created and maintained back-end database for application using MySQL and google cloud database
+
+Assisted in QA testing of product throughout development process
 
 Jobster is a job hunting website where anyone can search for their jobs based upon their personal preferences. 
 
